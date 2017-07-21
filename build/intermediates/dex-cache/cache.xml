@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\878cb49552afc35567e486ec445b5edd0ca113c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7be042dd2aa8157a2b63934902f472952d2ea1fe">
+        <dex dex="C:\Users\HP\Desktop\Android_project\Ezyserv\app\build\intermediates\pre-dexed\debug\classes_2e5b3bf028c567fa628d80ca8876ee1405cc7cdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\6706177f487553e7f4eb359715c827ee91a3c0fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="C:\Users\HP\Desktop\Android_project\Ezyserv\app\build\intermediates\pre-dexed\debug\classes_a02895006f64b8d2ccef60250cdc5416a32f6f23.jar" />
+    </item>
+
+</items>
